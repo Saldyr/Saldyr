@@ -24,8 +24,9 @@ Agent autonome qui pilote mes projets perso au quotidien : tâches planifiées, 
 
 ### Me contacter
 
-Portfolio : https://portfolio-saldyr.vercel.app
-LinkedIn : https://www.linkedin.com/in/romain-cartia/
-Mail : romain.cartia@gmail.com
+***Portfolio*** : https://portfolio-saldyr.vercel.app
+***LinkedIn*** : https://www.linkedin.com/in/romain-cartia/
+***GitLab*** : https://gitlab.com/romain.cartia
+***Mail*** : romain.cartia@gmail.com
 
-Je cherche un premier poste de développeur sur Lyon, Annecy ou le frontalier suisse, à partir d'octobre 2026. Ouvert au dev web comme aux postes tournés vers l'IA.
+Je cherche un premier poste de développeur sur Lyon, Annecy ou le frontalier suisse. Ouvert au dev web comme aux postes tournés vers l'IA qui est un domaine qui me passionne ou je pousse mon acculturation et ma pratique afin d'avoir un niveau professionnel.
