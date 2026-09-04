@@ -4,6 +4,10 @@ Développeur fullstack JavaScript / TypeScript. Je me suis reconverti dans le de
 
 Je construis des applications web, du frontend jusqu'au déploiement, et j'apprends l'IA générative en ce moment (intégration de LLM, agents, RAG).
 
+### Comment je travaille
+
+Je développe au quotidien en pilotant un agent en ligne de commande (Claude Code). Je fais générer du code, mais je relis et je comprends tout ce qui entre dans le projet. Je me suis construit mon propre environnement autour : des skills réutilisables, une configuration MCP, un agent d'orchestration pour mes tâches récurrentes. Hermès est né de cette méthode.
+
 ### Ce que j'utilise
 
 **Frontend** : React, TypeScript, Zustand, TanStack Query, Tailwind
