@@ -33,4 +33,4 @@ Agent autonome qui pilote mes projets perso au quotidien : tâches planifiées, 
 ***GitLab*** : https://gitlab.com/romain.cartia
 ***Mail*** : romain.cartia@gmail.com
 
-Je cherche un premier poste de développeur sur Lyon, Annecy ou le frontalier suisse. Ouvert au dev web comme aux postes tournés vers l'IA qui est un domaine qui me passionne ou je pousse mon acculturation et ma pratique afin d'avoir un niveau professionnel.
+Je cherche un premier poste de développeur sur Lyon, Annecy ou le frontalier suisse, **disponible immédiatement**. Ouvert au dev web comme aux postes tournés vers l'IA, un domaine qui me passionne et sur lequel je pousse mon acculturation et ma pratique pour atteindre un niveau professionnel.
